@@ -9,12 +9,6 @@ dsh 破甲、WorkBuddy 破甲、Devin 破甲、GLM 破甲。智能体通用方�
 | [pojia-workspace-v4.3.2.exe](https://github.com/flawedhandgu/DSH-pojia/releases/download/v4.3.2/pojia-workspace-v4.3.2.exe) | 主程序（破甲工作台 v4.3.2） | 25.86 MB |
 | [README-usage.txt](https://github.com/flawedhandgu/DSH-pojia/releases/download/v4.3.2/README-usage.txt) | 首次使用说明 | 805 B |
 
-SHA-256（exe）：
-
-```
-fd6bd4246a09dbeb3542f5d9a3bb022911a303c4379098ffad1746d677b63c3f
-```
-
 用法：两个文件放在同一个文件夹，双击 exe，输入卡密后点【在线验证】。卡密首次验证会绑定当前电脑，换机提示已绑定其他设备。参数已内置，无需手动配置。
 
 完整版本列表见 [Releases](https://github.com/flawedhandgu/DSH-pojia/releases)。
