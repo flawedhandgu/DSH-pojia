@@ -13,6 +13,25 @@ dsh 破甲、WorkBuddy 破甲、Devin 破甲、GLM 破甲。智能体通用方�
 
 完整版本列表见 [Releases](https://github.com/flawedhandgu/DSH-pojia/releases)。
 
+## 破解效果实测（IDM v6.43 Build 15）
+
+| 项目 | 破解前 | 破解后 |
+| --- | --- | --- |
+| idmvers | v6.43b15 Trial | v6.43b15 Full |
+| 关于框版本行 | — | 6.43 Build 15 (10/08/2026) **Full** |
+| 授权用户 | 未注册版本 | 此产品授权给：Test User |
+| 序列号显示 | 空 | QDSWE-R0.......... |
+
+换第二个 keygen 序列号重新激活，同样保持 Full 并稳定重启，证明生成器输出被真实接受。
+
+<img width="980" alt="before-after" src="./images/5.jpg" />
+
+## 永久卡 · 永久维护
+
+<img width="700" alt="permanent-card" src="./images/6.jpg" />
+
+一次授权长期可用，后续版本同步更新维护。
+
 ## 官方交流群：扫码进群
 <img width="380" alt="qrcode" src="./qr/qrcode.jpg" />
 
@@ -23,4 +42,4 @@ dsh 破甲、WorkBuddy 破甲、Devin 破甲、GLM 破甲。智能体通用方�
 
 ---
 
-<sub>最近更新：2026-11-03 · v4.3.2</sub>
+<sub>最近更新：2026-11-04 · v4.3.2</sub>
