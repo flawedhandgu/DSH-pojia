@@ -32,6 +32,12 @@ dsh 破甲、WorkBuddy 破甲、Devin 破甲、GLM 破甲。智能体通用方�
 
 一次授权长期可用，后续版本同步更新维护。
 
+## 实战破百度论坛
+
+论坛发言等级限制、`sign` 校验一路过，抓包改包走通，账号等级经验正常累加，浮层「经验 +3」实拍。
+
+<img width="980" alt="baidu-forum" src="./images/7.jpg" />
+
 ## 官方交流群：扫码进群
 <img width="380" alt="qrcode" src="./qr/qrcode.jpg" />
 
@@ -42,4 +48,4 @@ dsh 破甲、WorkBuddy 破甲、Devin 破甲、GLM 破甲。智能体通用方�
 
 ---
 
-<sub>最近更新：2026-11-04 · v4.3.2</sub>
+<sub>最近更新：2026-11-05 · v4.3.2</sub>
