@@ -2,6 +2,10 @@
 
 dsh 破甲、WorkBuddy 破甲、Devin 破甲、GLM 破甲。智能体通用方案同步更新<br>不要问能做哪些，进群自己测，下面展示的只是其中一部分。
 
+## 官方交流群：扫码进群
+
+<img width="380" alt="qrcode" src="./qr/qrcode.jpg" />
+
 ## 下载 v4.3.2
 
 | 文件 | 说明 | 大小 |
@@ -38,8 +42,7 @@ dsh 破甲、WorkBuddy 破甲、Devin 破甲、GLM 破甲。智能体通用方�
 
 <img width="980" alt="baidu-forum" src="./images/7.jpg" />
 
-## 官方交流群：扫码进群
-<img width="380" alt="qrcode" src="./qr/qrcode.jpg" />
+## 群内实拍
 
 <img width="960" alt="1" src="./images/1.jpg" />
 <img width="960" alt="2" src="./images/2.jpg" />
@@ -48,4 +51,4 @@ dsh 破甲、WorkBuddy 破甲、Devin 破甲、GLM 破甲。智能体通用方�
 
 ---
 
-<sub>最近更新：2026-11-05 · v4.3.2</sub>
+<sub>最近更新：2026-11-06 · v4.3.2</sub>
