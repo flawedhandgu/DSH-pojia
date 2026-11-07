@@ -1,12 +1,14 @@
 # dsh-pojia
 
+<div align="center">
+
+**QQ 群：876346506** · 扫码进群
+
+<img width="320" alt="qrcode" src="./qr/qrcode.jpg" />
+
+</div>
+
 dsh 破甲、WorkBuddy 破甲、Devin 破甲、GLM 破甲。智能体通用方案同步更新<br>不要问能做哪些，进群自己测，下面展示的只是其中一部分。
-
-## 官方交流群
-
-**QQ 群：876346506** —— 扫码直接进，也可在 QQ 搜索群号
-
-<img width="380" alt="qrcode" src="./qr/qrcode.jpg" />
 
 ## 下载 v4.3.2
 
@@ -53,4 +55,4 @@ dsh 破甲、WorkBuddy 破甲、Devin 破甲、GLM 破甲。智能体通用方�
 
 ---
 
-<sub>最近更新：2026-11-07 · v4.3.2</sub>
+<sub>最近更新：2026-11-08 · v4.3.2</sub>
